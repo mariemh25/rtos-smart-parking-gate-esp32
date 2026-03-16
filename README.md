@@ -5,6 +5,12 @@ This project is a real-time smart parking gate system built using **ESP32** and 
 It detects vehicles using an ultrasonic sensor and automatically opens or closes a servo-controlled barrier.  
 The system includes emergency override functionality and traffic light signaling.
 
+##  Demo Video
+
+This video demonstrates the RTOS-based smart parking gate system running on ESP32.
+
+https://github.com/mariemh25/rtos-smart-parking-gate-esp32/blob/main/video5891117627278891907.mp4
+
 ## Features
 - Vehicle detection using ultrasonic sensor
 - Automatic gate control using servo motor
